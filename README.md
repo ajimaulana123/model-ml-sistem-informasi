@@ -16,7 +16,7 @@ Proyek ini adalah bagian dari sistem informasi untuk mendeteksi transaksi penipu
 - **Scikit-learn**: Untuk pemrosesan data dan evaluasi model.
 - **Jupyter Notebooks**: Untuk eksplorasi data dan visualisasi.
 
-## 📂 Struktur Proyek
+## 📂 Struktur Proyek ( MENDATANG )
 ```
 fraud-detection/
 │
